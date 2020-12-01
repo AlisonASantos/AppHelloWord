@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHelloWord", "AppHelloWord\AppHelloWord.csproj", "{64A9D80B-F62A-4525-943E-4D167D4FEC9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A9D80B-F62A-4525-943E-4D167D4FEC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A9D80B-F62A-4525-943E-4D167D4FEC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A9D80B-F62A-4525-943E-4D167D4FEC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A9D80B-F62A-4525-943E-4D167D4FEC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF24E36-0A30-4427-98CC-2AD65F028F75}
+	EndGlobalSection
+EndGlobal
